@@ -1,0 +1,8 @@
+{
+	"name": "Soohyun <3",
+	"version": "1.0.0",
+	"description": "nobb",
+	"private": true,
+	"scripts": {
+		"build": "hugo --cleanDestinationDir"
+}
