@@ -3,10 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/national/</loc>
+    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/park/</loc>
+    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/personal/</loc>
+    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/trip/</loc>
+    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/jotr/</loc>
+    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
   </url>
 </urlset>
