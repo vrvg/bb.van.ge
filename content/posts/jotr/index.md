@@ -8,6 +8,7 @@ month = '2025/01'
 slug = 'jotr'
 categories = ['personal', 'trip']
 tags = ['national', 'park']
+locations = ['California', 'Joshua Tree']
 +++
 
 lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

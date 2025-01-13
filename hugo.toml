@@ -2,3 +2,22 @@ baseURL = 'https://bb.van.ge/'
 languageCode = 'en-us'
 title = 'Soohyun <3'
 theme = 'univer'
+
+pagination.pagerSize = 5
+
+[params]
+	author = 'vange'
+	description = 'nobb'
+
+[permalinks]
+	posts = 'posts/:year/:month/:slug/'
+	year = '/posts/:slug'
+	month = '/posts/:slug'
+	location = '/posts/:slug'
+
+[taxonomies]
+	year = 'year'
+	month = 'month'
+	tag = 'tags'
+	category = 'categories'
+	location = 'locations'

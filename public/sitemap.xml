@@ -2,28 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bb.van.ge/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/01/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/locations/california/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/html/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/locations/joshua-tree/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/01/mike/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/month/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/personal/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/thoughts/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/year/</loc>
+    <lastmod>2025-01-13T05:23:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/locations/</loc>
+    <lastmod>2025-01-13T05:09:26-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/national/</loc>
     <lastmod>2025-01-09T16:36:30-08:00</lastmod>
   </url><url>
-    <loc>https://bb.van.ge/categories/</loc>
+    <loc>http://localhost:1313/tags/park/</loc>
     <lastmod>2025-01-09T16:36:30-08:00</lastmod>
   </url><url>
-    <loc>https://bb.van.ge/tags/national/</loc>
+    <loc>http://localhost:1313/categories/trip/</loc>
     <lastmod>2025-01-09T16:36:30-08:00</lastmod>
   </url><url>
-    <loc>https://bb.van.ge/tags/park/</loc>
+    <loc>http://localhost:1313/posts/2025/01/jotr/</loc>
     <lastmod>2025-01-09T16:36:30-08:00</lastmod>
   </url><url>
-    <loc>https://bb.van.ge/categories/personal/</loc>
-    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
+    <loc>http://localhost:1313/posts/1/01/</loc>
   </url><url>
-    <loc>https://bb.van.ge/tags/</loc>
-    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
+    <loc>http://localhost:1313/posts/1/01/</loc>
   </url><url>
-    <loc>https://bb.van.ge/categories/trip/</loc>
-    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
+    <loc>http://localhost:1313/posts/1/01/</loc>
   </url><url>
-    <loc>https://bb.van.ge/posts/jotr/</loc>
-    <lastmod>2025-01-09T16:36:30-08:00</lastmod>
+    <loc>http://localhost:1313/posts/1/01/</loc>
   </url>
 </urlset>
