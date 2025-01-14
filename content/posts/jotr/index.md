@@ -8,14 +8,14 @@ month = '2025/01'
 slug = 'jotr'
 categories = ['personal', 'trip']
 tags = ['national', 'park']
-locations = ['California', 'Joshua Tree']
+locations = ['Joshua Tree','California']
 +++
 
-lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+we had talked about how the stars looked in the middle east. i remember asking you if you wanted to go to Joshua Tree with me since neither of us had been there. my first choice for star gazing has always been Yosemite because i did not know about Joshua Tree.
 
 <!--more-->
 
-ut enum ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+then you asked me if i wanted to go with you and your friends.
 
 {{< postimage "images/signal-2025-01-08-225141.jpeg" "us" >}}
 {{< postimage "images/signal-2025-01-08-225141_002.jpeg" "me" >}}
